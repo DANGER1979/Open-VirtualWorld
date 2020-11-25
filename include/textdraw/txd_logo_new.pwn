@@ -1,0 +1,41 @@
+	TD_LOGO[0] = TextDrawCreateEx(553.034667, 15.000000, "W");
+	TextDrawLetterSize(TD_LOGO[0], 0.800000, 2.799998);
+	TextDrawAlignment(TD_LOGO[0], 1);
+	TextDrawColor(TD_LOGO[0], 3988735);
+	TextDrawSetShadow(TD_LOGO[0], 1);
+	TextDrawSetOutline(TD_LOGO[0], 0);
+	TextDrawBackgroundColor(TD_LOGO[0], -1061109505);
+	TextDrawFont(TD_LOGO[0], 3);
+	TextDrawSetProportional(TD_LOGO[0], 1);
+
+	TD_LOGO[1] = TextDrawCreateEx(542.867309, 15.000000, "V");
+	TextDrawLetterSize(TD_LOGO[1], 0.800000, 2.799998);
+	TextDrawAlignment(TD_LOGO[1], 1);
+	TextDrawColor(TD_LOGO[1], 3988735);
+	TextDrawSetShadow(TD_LOGO[1], 1);
+	TextDrawSetOutline(TD_LOGO[1], 0);
+	TextDrawBackgroundColor(TD_LOGO[1], -1061109505);
+	TextDrawFont(TD_LOGO[1], 3);
+	TextDrawSetProportional(TD_LOGO[1], 1);
+
+	TD_LOGO[2] = TextDrawCreateEx(563.333251, 18.755558, "Virtual~n~World");
+	TextDrawLetterSize(TD_LOGO[2], 0.315999, 1.048295);
+	TextDrawAlignment(TD_LOGO[2], 1);
+	TextDrawColor(TD_LOGO[2], -86);
+	TextDrawSetShadow(TD_LOGO[2], 1);
+	TextDrawSetOutline(TD_LOGO[2], 0);
+	TextDrawBackgroundColor(TD_LOGO[2], 51);
+	TextDrawFont(TD_LOGO[2], 3);
+	TextDrawSetProportional(TD_LOGO[2], 1);
+
+	TD_LOGO[3] = TextDrawCreateEx(594.666198, 30.122207, "usebox");
+	TextDrawLetterSize(TD_LOGO[3], 0.000000, -0.232304);
+	TextDrawTextSize(TD_LOGO[3], 569.666748, 0.000000);
+	TextDrawAlignment(TD_LOGO[3], 1);
+	TextDrawColor(TD_LOGO[3], -171);
+	TextDrawUseBox(TD_LOGO[3], 1);
+	TextDrawBoxColor(TD_LOGO[3], -86);
+	TextDrawSetShadow(TD_LOGO[3], 0);
+	TextDrawSetOutline(TD_LOGO[3], 0);
+	TextDrawBackgroundColor(TD_LOGO[3], -171);
+	TextDrawFont(TD_LOGO[3], 0);
