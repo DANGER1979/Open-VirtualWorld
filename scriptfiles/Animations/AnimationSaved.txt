@@ -1,0 +1,5 @@
+
+ApplyAnimation(playerid, "PED", "SEAT_UP", 4.1, false, false, false, false, 0, false); // sityhall
+ApplyAnimation(playerid, "PED", "SEAT_DOWN", 4.1, false, false, false, false, 0, false); // 1
+ApplyAnimation(playerid, "PED", "SEAT_DOWN", 4.1, false, false, false, true, 0, false); // seat down
+ApplyAnimation(playerid, "PED", "SEAT_DOWN", 4.1, 0, 0, 0, 1, 0, 0); // seat
