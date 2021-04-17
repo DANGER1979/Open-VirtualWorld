@@ -39,68 +39,68 @@ MAX_TEXT_DRAWS = 2048, LOAD = 262
 MAX_3DTEXT_GLOBAL = 1024, LOAD = 1023
 
 МАППИНГ
-   vw_station.inc Exported 2019-04-24 by Данил Черепанов
-   TRM_accessories.inc by TRM STUDIO
-   hotel_int.inc Exported 2019-04-24 by Богдан Донской
-   vw_lux.inc Exported 2019-04-24 by Богдан Донской
-   vw_econom.inc Exported 2019-04-24 by Богдан Донской
-   DRP_IntHotel.inc Exported 2020-06-3 by Diamond RP
-   ERP_Grove.inc Exported 2020-06-03 by Evolve RP
-   ERP_Ballas.inc Exported 2020-06-03 by Evolve RP
-   ERP_Aztecas.inc Exported 2020-06-03 by Evolve RP
-   ERP_Vagos.inc Exported 2020-06-03 by Evolve RP
-   ERP_Rifa.inc Exported 2020-06-03 by Evolve RP
-   vw_grove.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_ballas.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_aztec.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_vagos.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_LSPD.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_SFPD.inc Exported 2019-04-24 by Dwayne_Jonson
-   fbi_ex.inc Exported 2019-04-24 by Dwayne_Jonson
-   fbi_parking.inc Exported 2019-04-24 by Dwayne_Jonson
-   fbi_0.inc Exported 2019-04-24 by Dwayne_Jonson
-   fbi_1.inc Exported 2019-04-24 by Dwayne_Jonson
-   fbi_2.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_barracks.inc Loaded
-   DRP_Alcatraz.inc Exported 2020-06-3 by Diamond RP
-   MRP_Hospital_Ex.inc Exported 2020-06-3 by MakProject RP
-   DRP_Hospital_Ex.inc Exported 2020-06-3 by Diamond RP
-   vw_hospital_1.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_hospital_2.inc Exported 2019-04-24 by Dwayne_Jonson
-   DRP_Hospital1.inc Exported 2020-06-3 by Diamond RP
-   DRP_Hospital2.inc Exported 2020-06-3 by Diamond RP
-   DRP_Hospital3.inc Exported 2020-06-3 by Diamond RP
-   int_lcn.inc Exported 2019-04-24 by Dwayne_Jonson
-   lcn_ext.inc Exported 2019-04-24 by Dwayne_Jonson
-   SRP_Yakuza.inc Exported 2020-06-03 by Samp RP
-   vw_govhall.inc Exported 2019-04-24 by Dwayne_Jonson
-   goverment2.inc Exported 2019-04-24 by Dwayne_Jonson
-   mayoroffice.inc Exported 2019-04-24 by Dwayne_Jonson
-   NewsAgency.inc Exported 2020-06-03
-   MRP_News_Ex.inc Exported 2020-06-03 by MakProject RP
-   MRP_News_Int.inc Exported 2020-06-03 by MakProject RP
-   aSchool_Int.inc Exported 2019-04-24 by Данил Черепанов
-   aSchool_Ext.inc Exported 2019-04-24 by Dwayne_Jonson
-   vw_roadworker_base.inc Exported 2019-04-24 by Dwayne_Jonson
-   PP_Airport.inc Exported 2020-06-03 by Pears Project
-   vw_bank v1.0 Exported 2019-04-24 by Влад Ганевич
-   DRP_247.inc Exported 2020-06-3 by Diamond RP
-   DRP_Club.inc Exported 2020-06-3 by Diamond RP
-   DRP_TKinta.inc Exported 2020-06-3 by Diamond RP
-   DRP_Restoraunt.inc Exported 2020-06-3 by Diamond RP
-   DRP_HRepair.inc Exported 2020-06-3 by Diamond RP
-   DRP_Bar.inc Exported 2020-06-3 by Diamond RP
-   Drugstore.inc Exported 2020-06-3 by Mailen Studio
-   CoffeeHouse.inc Exported 2020-06-03 by By Zimovskiy/mapstock
-   DRP_Cards.inc Exported 2020-06-3 by Diamond RP
-   DRP_Market.inc Exported 2020-06-3 by Diamond RP
-   DRP_AutoRinok.inc Exported 2020-06-03 by Diamond RP
-   bar.inc by Danger1979
-   Autosalon.inc Exported 2020-04-15 by 
-   DRP_IntOffice.inc Exported 2020-06-3 by Diamond RP
-   DRP_ExtOffice.inc Exported 2020-06-3 by Diamond RP
-   vw_port_int.inc Exported 2019-04-24 by Геннадий Рожков
-   vw_port_ext.inc Exported 2019-04-24 by Геннадий Рожков
+   vw_station.inc
+   TRM_accessories.inc
+   hotel_int.inc
+   vw_lux.inc
+   vw_econom.inc
+   DRP_IntHotel.inc
+   ERP_Grove.inc
+   ERP_Ballas.inc
+   ERP_Aztecas.inc
+   ERP_Vagos.inc
+   ERP_Rifa.inc
+   vw_grove.inc 
+   vw_ballas.inc 
+   vw_aztec.inc
+   vw_vagos.inc
+   vw_LSPD.inc
+   vw_SFPD.inc
+   fbi_ex.inc
+   fbi_parking.inc
+   fbi_0.inc
+   fbi_1.inc 
+   fbi_2.inc
+   vw_barracks.inc 
+   DRP_Alcatraz.inc 
+   MRP_Hospital_Ex.inc
+   DRP_Hospital_Ex.inc
+   vw_hospital_1.inc
+   vw_hospital_2.inc
+   DRP_Hospital1.inc
+   DRP_Hospital2.inc 
+   DRP_Hospital3.inc
+   int_lcn.inc 
+   lcn_ext.inc 
+   SRP_Yakuza.inc 
+   vw_govhall.inc 
+   goverment2.inc
+   mayoroffice.inc
+   NewsAgency.inc
+   MRP_News_Ex.inc 
+   MRP_News_Int.inc
+   aSchool_Int.inc
+   aSchool_Ext.inc 
+   vw_roadworker_base.inc
+   PP_Airport.inc
+   vw_bank v1.0 
+   DRP_247.inc 
+   DRP_Club.inc 
+   DRP_TKinta.inc 
+   DRP_Restoraunt.inc 
+   DRP_HRepair.inc
+   DRP_Bar.inc
+   Drugstore.inc 
+   CoffeeHouse.inc
+   DRP_Cards.inc 
+   DRP_Market.inc 
+   DRP_AutoRinok.inc 
+   bar.inc b
+   Autosalon.inc 
+   DRP_IntOffice.inc 
+   DRP_ExtOffice.inc
+   vw_port_int.inc 
+   vw_port_ext.inc 
 
 Системы:
   CamEditor v1.2 by Drebin & Danger1979
